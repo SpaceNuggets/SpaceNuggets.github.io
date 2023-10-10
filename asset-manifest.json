@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SpaceNuggets.github.io/static/css/main.10d72e37.css",
+    "main.js": "/SpaceNuggets.github.io/static/js/main.c9e54487.js",
+    "static/media/barbellBackground.jpg": "/SpaceNuggets.github.io/static/media/barbellBackground.6e28eb8d62e25634dfc7.jpg",
+    "static/media/forestBackground.jpg": "/SpaceNuggets.github.io/static/media/forestBackground.d4db1b3383cf70117b53.jpg",
+    "static/media/Montserrat-Bold.ttf": "/SpaceNuggets.github.io/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/PlayfairDisplay-Bold.ttf": "/SpaceNuggets.github.io/static/media/PlayfairDisplay-Bold.c3c9165182044bf7f179.ttf",
+    "static/media/OpenSans-Bold.ttf": "/SpaceNuggets.github.io/static/media/OpenSans-Bold.45847e90261782dc01a6.ttf",
+    "static/media/OpenSans-Regular.ttf": "/SpaceNuggets.github.io/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/SpaceNuggets.github.io/static/media/OpenSans-SemiBold.dcf2e322dbaa037ca821.ttf",
+    "static/media/GDLogo.svg": "/SpaceNuggets.github.io/static/media/GDLogo.498eb7959711eb895969f2413110aeac.svg",
+    "index.html": "/SpaceNuggets.github.io/index.html",
+    "main.10d72e37.css.map": "/SpaceNuggets.github.io/static/css/main.10d72e37.css.map",
+    "main.c9e54487.js.map": "/SpaceNuggets.github.io/static/js/main.c9e54487.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d72e37.css",
+    "static/js/main.c9e54487.js"
+  ]
+}
